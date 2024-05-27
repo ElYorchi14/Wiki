@@ -1,43 +1,48 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es-MX">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title }}</title>
-  <meta name="description" content="{{ description }}">
-  <link rel="icon" href="/img/favicon.png">
-  <link rel="stylesheet" href="/css/styles.css">
+  <title>{{title}}</title>
+  <meta name="description" content="{{description}}">
+  <link rel="icon" href="/img/HaloIcono.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=New+Rocker&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/estilos.css">
 </head>
 <body>
-  {% include "header.njk" %}
+  {% include "header-post.njk" %}
   <main>
-    {{ content | safe }}
+    {{content | safe}}
+    <hr>
+    <img class="band-image" src="{{imagen}}" alt="{{title}}">
+    <hr>
+    <h2 class="jaro-subtitle">Sus más grandes hits</h2>
+    <br>
+    {{song1 | safe}}
+    <br>
+    {{song2 | safe}}
+    <br>
+    {{song3 | safe}}
+    <hr>
   </main>
-  <hr>
   <aside>
-    <h2>Categorías</h2>
-    <h3>Libros</h3>
+    <h2 class="jaro-title">Más bandas</h2>
+    <h3 class="jaro-subtitle">Bandas de Rock</h3>
     <ul>
-      {% for article in collections.libros %}
-        <li>
-          <a href="{{article.url}}">
-            {{ article.data.title }}
-          </a>
-        </li>
+      {% for article in collections.rock %}
+      <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
       {% endfor %}
     </ul>
-    <h3>Películas</h3>
+    <h3 class="jaro-subtitle">Bandas de Metal</h3>
     <ul>
-      {% for article in collections.peliculas %}
-        <li>
-          <a href="{{article.url}}">
-            {{ article.data.title }}
-          </a>
-        </li>
+      {% for article in collections.metal %}
+      <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
       {% endfor %}
     </ul>
   </aside>
-  {% include "footer.njk" %}
-  <script src="/js/main.js" type="module"></script>
+  {% include "footer-post.njk" %}
+  <script src ="/js/main.js" type="module"> </script>
 </body>
 </html>
