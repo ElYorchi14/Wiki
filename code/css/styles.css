@@ -4,7 +4,7 @@
   color: rgb(255, 255, 255);
   --primaryFont: "New-rocker",system-ui;
   --secondaryFont: "Nunito",sans-serif;
-  --titleFont:"Jaro",sans-serif;
+  --titleFont:"Kanit",sans-serif;
 }
 
 body {
@@ -51,7 +51,7 @@ li {
 }
 
 .jaro-title {
-  font-family: "Jaro", sans-serif;
+  font-family: "Kanit", sans-serif;
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
@@ -59,7 +59,7 @@ li {
   color:#7c0776;
 }
 .jaro-subtitle {
-  font-family: "Jaro", sans-serif;
+  font-family: "Kanit", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
@@ -124,7 +124,7 @@ li {
     transition: all 1s ease-out;
   }
 
-  .band-image:hover{
+  .halo-image:hover{
     transform: scale(1.15);
   }
 
