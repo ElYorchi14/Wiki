@@ -1,5 +1,10 @@
 * {
   box-sizing: border-box;
+  background-color: rgb(41, 40, 40);
+  color: rgb(255, 255, 255);
+  --primaryFont: "New-rocker",system-ui;
+  --secondaryFont: "Nunito",sans-serif;
+  --titleFont:"Jaro",sans-serif;
 }
 
 body {
@@ -7,28 +12,24 @@ body {
   padding: 1rem;
   max-width: 800px;
   min-height: 100vh;
-  border: medium solid red;
+  border: medium solid rgb(0, 0, 0);
   text-align: center;
-  font-family: system-ui, sans-serif;
+  font-family: var(--primaryFont);
 }
 
 a {
-  color: #1873a5;
+  color: #a5fc82;
   transition: all 0.3s ease-out;
 
   &:hover {
-    color: red;
+    color: rgb(255, 255, 255);
   }
 }
 
 hr {
-  margin: 2rem auto;
+  margin: 2.5rem auto;
   width: 80%;
-}
-
-img {
-  display: block;
-  margin: 0 auto;
+  border-color: black;
 }
 
 p,
@@ -36,11 +37,39 @@ li {
   text-align: left;
 }
 
+.new-rocker-regular {
+  font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nunito-normal{
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.jaro-title {
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 2rem;
+  color:#7c0776;
+}
+.jaro-subtitle {
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color:#e6b926;
+}
 .menu {
   width: 100%;
   max-width: 480px;
   margin: 0 auto;
-  border: thin solid red;
+  border: medium double rgb(0, 0, 0);
 
   ul {
     margin: 0;
@@ -54,3 +83,72 @@ li {
     list-style: none;
   }
 }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  iframe{
+    display: block;
+    width: 700px;
+    height: 400px;
+    max-width: 100%;
+    margin: auto;  
+  }
+  .acerca-text{
+    color:#66acfd;
+    font-size: 1.5rem;
+    text-align:left;
+    margin-left:70px;
+  } 
+
+  .logo-image{
+    transition: all 1s ease-out;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  .logo-image:hover{
+    transform: scale(1.05);
+  }
+
+  .halo-image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    transition: all 1s ease-out;
+  }
+
+  .band-image:hover{
+    transform: scale(1.15);
+  }
+
+  .page-image{
+      display: block;
+      width: 700px;
+      height: 400px;
+      max-width: 100%;
+      margin: auto;  
+  }
+  .search-wrapper{
+    display:block;
+  }
+
+  label{
+    color:rgb(180, 180, 180);
+  }
+
+  input{
+    font-size: 1rem;
+    background-color: white;
+    color:black;
+  }
+
+  #articles-list li {
+    font-size: 20px; 
+  }
