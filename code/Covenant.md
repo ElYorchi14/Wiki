@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña del libro 3
-description: Descripción de la reseña del libro 3
-tags: ["blog", "libros"]
+title: Covenant
+description: Descripción de los covenant en Halo
+tags: ["Covenant", "halo"]
 date: "2024-05-23"
 ---
 

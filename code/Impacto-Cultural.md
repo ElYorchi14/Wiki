@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña de la película 1
-description: Descripción de la reseña de la película 1
-tags: ["blog", "peliculas"]
+title: Impacto Cultural
+description: Descripción del impacto cultural de Halo
+tags: ["Impacto", "halo"]
 date: "2024-11-11"
 ---
 

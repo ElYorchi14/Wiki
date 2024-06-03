@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña de la película 3
-description: Descripción de la reseña de la película 3
-tags: ["blog", "peliculas"]
+title: Vehiculos
+description: Descripción de los vehiculos en Halo
+tags: ["Vehicuclos", "halo"]
 date: "2024-08-20"
 ---
 

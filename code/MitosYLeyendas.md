@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Armaduras
-description: Descripción de las armaduras de halo
-tags: ["Armaduras", "libros"]
+title: Mitos y Leyendas
+description: Descripción de los mitos y leyendas en Halo
+tags: ["Mitos", "halo"]
 date: "2024-05-20"
 ---
 

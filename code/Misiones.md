@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Master Chief
-description: Articulo de Master Chief en la wiki de Halo
-tags: ["Personajes", "Importante"]
+title: Misiones
+description: Descripcion de las misiones en Halo
+tags: ["Misiones", "halo"]
 date: "2024-05-20"
 ---
 

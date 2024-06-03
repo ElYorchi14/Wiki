@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña de la película 1
-description: Descripción de la reseña de la película 1
-tags: ["blog", "peliculas"]
+title: Artefactos Forerunner
+description: Descripción de los artefactos Forerunner de halo
+tags: ["Forerunner", "halo"]
 date: "2024-11-11"
 ---
 

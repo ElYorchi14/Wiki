@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña de la película 2
-description: Descripción de la reseña de la película 2
-tags: ["blog", "peliculas"]
+title: Planetas
+description: Descripción de los planetas en Halo
+tags: ["Planetas", "halo"]
 date: "2024-07-17"
 ---
 

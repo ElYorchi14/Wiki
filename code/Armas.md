@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña de la película 1
-description: Descripción de la reseña de la película 1
-tags: ["blog", "peliculas"]
+title: Armas
+description: Descripción de las Armas de Halo
+tags: ["Armas", "halo"]
 date: "2024-11-11"
 ---
 

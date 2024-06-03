@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Master Chief
-description: Articulo de Master Chief en la wiki de Halo
-tags: ["Personajes", "Importante"]
+title: Spartans
+description: Descripcion de los spartans en Halo
+tags: ["Spartans", "halo"]
 date: "2024-05-20"
 ---
 

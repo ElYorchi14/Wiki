@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña de la película 1
-description: Descripción de la reseña de la película 1
-tags: ["blog", "peliculas"]
+title: Banda Sonora
+description: Descripción de la banda sonora de Halo
+tags: ["Banda", "halo"]
 date: "2024-11-11"
 ---
 

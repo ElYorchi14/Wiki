@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Master Chief
 description: Articulo de Master Chief en la wiki de Halo
-tags: ["Personajes", "Importante"]
+tags: ["Personajes", "halo"]
 date: "2024-05-20"
 ---
 

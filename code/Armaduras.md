@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Armaduras
 description: Descripción de las armaduras de halo
-tags: ["Armaduras", "libros"]
+tags: ["Armaduras", "halo"]
 date: "2024-05-20"
 ---
 

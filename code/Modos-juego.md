@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Master Chief
-description: Articulo de Master Chief en la wiki de Halo
-tags: ["Personajes", "Importante"]
+title: Modos de Juego
+description: Descripcion de los modos de juego en Halo
+tags: ["Modos", "halo"]
 date: "2024-05-20"
 ---
 
