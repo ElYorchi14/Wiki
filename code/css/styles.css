@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  background-color: rgb(41, 40, 40);
+  background-color: rgb(0, 19, 194);
   color: rgb(255, 255, 255);
   --primaryFont: "New-rocker",system-ui;
   --secondaryFont: "Nunito",sans-serif;
@@ -97,7 +97,7 @@ li {
     margin: auto;  
   }
   .acerca-text{
-    color:#66acfd;
+    color:#00f829;
     font-size: 1.5rem;
     text-align:left;
     margin-left:70px;
