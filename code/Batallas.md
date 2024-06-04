@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Batallas
 description: Descripción de la Batallas
 tags: ["Batallas", "halo"]
+imagen: /img/Batallas.jpeg
 date: "2024-11-11"
 ---
 

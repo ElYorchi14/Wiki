@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Facciones
 description: Descripción de las facciones en Halo
 tags: ["Facciones", "halo"]
+imagen: /img/Facciones.jpg
 date: "2024-05-23"
 ---
 

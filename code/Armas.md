@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Armas
 description: Descripción de las Armas de Halo
 tags: ["Armas", "halo"]
+imagen: /img/Armas.jpg
 date: "2024-11-11"
 ---
 

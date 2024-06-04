@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Misiones
 description: Descripcion de las misiones en Halo
 tags: ["Misiones", "halo"]
+imagen: /img/Misiones.webp
 date: "2024-05-20"
 ---
 

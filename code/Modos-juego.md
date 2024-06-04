@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Modos de Juego
 description: Descripcion de los modos de juego en Halo
 tags: ["Modos", "halo"]
+imagen: /img/ModosDeJuego.jpeg
 date: "2024-05-20"
 ---
 

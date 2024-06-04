@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Conflictos
 description: Descripción de los conflictos de Halo
 tags: ["Conflictos", "halo"]
+imagen: /img/Conflictos.webp
 date: "2024-11-11"
 ---
 

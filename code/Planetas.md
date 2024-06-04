@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Planetas
 description: Descripción de los planetas en Halo
 tags: ["Planetas", "halo"]
+imagen: /img/Planetas.avif
 date: "2024-07-17"
 ---
 

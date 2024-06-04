@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Covenant
 description: Descripción de los covenant en Halo
 tags: ["Covenant", "halo"]
+imagen: /img/Covenant.webp
 date: "2024-05-23"
 ---
 

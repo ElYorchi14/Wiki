@@ -3,7 +3,7 @@ layout: layout-post.njk
 title: Armaduras
 description: Descripción de las armaduras de halo
 tags: ["Armaduras", "halo"]
-image: /img/wikiPortada.jpeg
+imagen: /img/Armaduras.png
 date: "2024-05-20"
 ---
 

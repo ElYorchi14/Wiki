@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Impacto Cultural
 description: Descripción del impacto cultural de Halo
 tags: ["Impacto", "halo"]
+imagen: /img/Impacto.jpeg
 date: "2024-11-11"
 ---
 

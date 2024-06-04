@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Mitos y Leyendas
 description: Descripción de los mitos y leyendas en Halo
 tags: ["Mitos", "halo"]
+imagen: /img/Mitos.jpg
 date: "2024-05-20"
 ---
 

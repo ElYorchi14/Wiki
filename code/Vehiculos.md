@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Vehiculos
 description: Descripción de los vehiculos en Halo
 tags: ["Vehicuclos", "halo"]
+imagen: /img/Vehiculos.jpeg
 date: "2024-08-20"
 ---
 

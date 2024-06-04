@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Flood
 description: Descripción de los flood en Halo
 tags: ["Flood", "halo"]
+imagen: /img/Flood.jpg
 date: "2024-05-23"
 ---
 

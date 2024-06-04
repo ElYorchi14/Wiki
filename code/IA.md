@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: IA
 description: Descripción de la IA en Halo
 tags: ["IA", "halo"]
+imagen: /img/IA.jpg
 date: "2024-05-23"
 ---
 

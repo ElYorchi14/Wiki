@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Banda Sonora
 description: Descripción de la banda sonora de Halo
 tags: ["Banda", "halo"]
+imagen: /img/Soundtrack.jpg
 date: "2024-11-11"
 ---
 

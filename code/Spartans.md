@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Spartans
 description: Descripcion de los spartans en Halo
 tags: ["Spartans", "halo"]
+imagen: /img/Spartans.jpeg
 date: "2024-05-20"
 ---
 

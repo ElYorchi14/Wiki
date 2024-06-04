@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Estrategias
 description: Descripción de las estrategias en Halo
 tags: ["Estrategias", "halo"]
+imagen: /img/Estrategia.jpg
 date: "2024-05-23"
 ---
 

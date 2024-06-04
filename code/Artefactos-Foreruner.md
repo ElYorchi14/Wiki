@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Artefactos Forerunner
 description: Descripción de los artefactos Forerunner de halo
 tags: ["Forerunner", "halo"]
+imagen: /img/Artefacto.jpg
 date: "2024-11-11"
 ---
 

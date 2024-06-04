@@ -3,6 +3,7 @@ layout: layout-post.njk
 title: Personaje
 description: Descripcion de los personajes en Halo
 tags: ["Personajes", "halo"]
+imagen: /img/Personajes.png
 date: "2024-05-20"
 ---
 
