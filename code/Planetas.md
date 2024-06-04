@@ -7,10 +7,6 @@ imagen: /img/Planetas.avif
 date: "2024-07-17"
 ---
 
-Perfecto, vamos a crear un artículo detallado sobre los planetas mencionados en la saga de Halo. Incluiré descripciones extensas, detalles sobre el clima, lugares específicos mencionados en la saga, y cualquier curiosidad relevante. Aquí tienes el artículo:
-
----
-
 # Planetas en el Universo de Halo: Una Guía Completa
 
 ## Introducción
