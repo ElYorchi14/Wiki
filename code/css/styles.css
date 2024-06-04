@@ -1,3 +1,8 @@
+
+.filtro{
+  display: none;
+}
+
 * {
   box-sizing: border-box;
   background-color: rgb(0, 19, 194);
@@ -139,9 +144,6 @@ li {
       max-width: 100%;
       margin: auto;  
   }
-  .search-wrapper{
-    display:block;
-  }
 
   label{
     color:rgb(180, 180, 180);
@@ -151,12 +153,4 @@ li {
     font-size: 1rem;
     background-color: white;
     color:black;
-  }
-
-  #articles-list li {
-    font-size: 20px; 
-  }
-
-  .filtro{
-    display: none;
   }
