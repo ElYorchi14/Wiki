@@ -156,3 +156,7 @@ li {
   #articles-list li {
     font-size: 20px; 
   }
+
+  .filtro{
+    display: none;
+  }
