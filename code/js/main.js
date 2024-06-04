@@ -1,17 +1,17 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const searchInput = document.querySelector("[data-search]");
-  const articlesList = document.querySelectorAll("#articles-list li");
+document.addEventListener("keyup", e=>{
 
-  searchInput.addEventListener("input", (e) => {
-    const value = e.target.value.toLowerCase();
+  if (e.target.matches("#buscador")){
 
-    articlesList.forEach((article) => {
-      const title = article.getAttribute("data-title").toLowerCase();
-      if (title.includes(value)) {
-        article.style.display = "block";
-      } else {
-        article.style.display = "none";
-      }
-    });
-  });
-});
+      if (e.key ==="Escape")e.target.value = ""
+
+      document.querySelectorAll(".articulo").forEach(articulo =>{
+
+          articulo.textContent.toLowerCase().includes(e.target.value.toLowerCase())
+            ?articulo.classList.remove("filtro")
+            :articulo.classList.add("filtro")
+      })
+
+  }
+
+
+})
